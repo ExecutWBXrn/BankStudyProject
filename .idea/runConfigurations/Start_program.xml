@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start program" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.executbank.App" />
+    <module name="ExecutBank" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
